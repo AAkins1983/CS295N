@@ -1,0 +1,99 @@
+﻿@page
+@model ProjectManagement1.Pages.Projects.SearchModel
+@{
+    ViewData["Title"] = "Search";
+}
+
+<h2>Search Projects</h2>
+
+<div class="row">
+    <div class="col-md-4">
+        <form>
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Proj.ProjectName">Project Name:</label>
+                <input asp-for="Proj.ProjectName" class="form-control" name="nameSearchString" />
+                <span asp-validation-for="Proj.ProjectName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                    <label asp-for="Proj.ProjectManager">Project Manager:</label>
+                    <input asp-for="Proj.ProjectManager" class="form-control" name="managerSearchString" />
+                    <span asp-validation-for="Proj.ProjectName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Proj.TechLead">Tech. Lead:</label>
+                    <input asp-for="Proj.TechLead" class="form-control" name="techSearchString" />
+                    <span asp-validation-for="Proj.TechLead" class="text-danger"></span>
+                </div>
+            <div class="form-group">
+                <label asp-for="ProjectStatus" class="control-label"></label>
+                <select asp-for="ProjectStatus" asp-items="Model.PStatus" class="form-control">
+                    <option value="">All</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Search" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Project[0].ProjectName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Project[0].Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Project[0].ProjectManager)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Project[0].TechLead)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Project[0].Status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Project[0].StartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Project[0].DueDate)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Project)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProjectName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProjectManager)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TechLead)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Status)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StartDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DueDate)
+                </td>
+                <td>
+                    <a asp-page="./Details" asp-route-id="@item.ID">Details</a> |
+                    <a asp-page="./CreateTask" asp-route-id="@item.ID">Task List</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

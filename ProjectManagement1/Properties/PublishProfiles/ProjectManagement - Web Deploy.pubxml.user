@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAxmVEZutZyUiVtWEt+PCL+gAAAAACAAAAAAAQZgAAAAEAACAAAABci1cs1e8Ch+RNnQPD5RZA6kj5bouWJngJO3Bvk4ZuuQAAAAAOgAAAAAIAACAAAAAxCErO6ckjSLkFgcUhy0LW6v8QwySOnX6HAfqFJahvAYAAAACgkA/Q9PHVbu1MruA9AYKHXHDUYfOC6cUvurgYOR5al7xu2HzdxgAmq5vYynQNuE5Lit8oBOyC8vlHd+en3tTRf800tfYpFl/R+jPA7ZYTtu790VA4+Pu8JUgYUdUFSjOyHhhWEoMv194dFm5/+oSB0W6jLFyxhJXybJPfiMBNe0AAAADgM1l/myW7jXV5g1Lx1NuYdGad8R70DQuCUYpfW5FOXAjcmqliduquwkjAIQ4xTNeKRpd6U0BJwACzqs/dam0+</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ProjectContext">
+      <Value>Server=tcp:projectdbserver.database.windows.net,1433;Initial Catalog=ProjectManagement;Persist Security Info=False;User ID=AAkins;Password=Bella10Tami11;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

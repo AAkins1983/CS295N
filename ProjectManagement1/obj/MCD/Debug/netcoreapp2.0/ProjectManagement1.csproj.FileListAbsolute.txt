@@ -1,0 +1,10 @@
+C:\Users\AAkin_000\source\repos\ProjectManagement1\ProjectManagement1\bin\MCD\Debug\netcoreapp2.0\ProjectManagement1.deps.json
+C:\Users\AAkin_000\source\repos\ProjectManagement1\ProjectManagement1\bin\MCD\Debug\netcoreapp2.0\ProjectManagement1.runtimeconfig.json
+C:\Users\AAkin_000\source\repos\ProjectManagement1\ProjectManagement1\bin\MCD\Debug\netcoreapp2.0\ProjectManagement1.runtimeconfig.dev.json
+C:\Users\AAkin_000\source\repos\ProjectManagement1\ProjectManagement1\bin\MCD\Debug\netcoreapp2.0\ProjectManagement1.dll
+C:\Users\AAkin_000\source\repos\ProjectManagement1\ProjectManagement1\bin\MCD\Debug\netcoreapp2.0\ProjectManagement1.pdb
+C:\Users\AAkin_000\source\repos\ProjectManagement1\ProjectManagement1\obj\MCD\Debug\netcoreapp2.0\ProjectManagement1.csproj.CoreCompileInputs.cache
+C:\Users\AAkin_000\source\repos\ProjectManagement1\ProjectManagement1\obj\MCD\Debug\netcoreapp2.0\ProjectManagement1.AssemblyInfoInputs.cache
+C:\Users\AAkin_000\source\repos\ProjectManagement1\ProjectManagement1\obj\MCD\Debug\netcoreapp2.0\ProjectManagement1.AssemblyInfo.cs
+C:\Users\AAkin_000\source\repos\ProjectManagement1\ProjectManagement1\obj\MCD\Debug\netcoreapp2.0\ProjectManagement1.dll
+C:\Users\AAkin_000\source\repos\ProjectManagement1\ProjectManagement1\obj\MCD\Debug\netcoreapp2.0\ProjectManagement1.pdb

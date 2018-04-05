@@ -1,0 +1,61 @@
+@page "{id:int?}"
+@model ProjectManagement1.Pages.Projects.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Project</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Project.ProjectName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Project.ProjectName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Project.Description)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Project.Description)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Project.ProjectManager)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Project.ProjectManager)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Project.TechLead)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Project.TechLead)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Project.Status)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Project.Status)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Project.StartDate)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Project.StartDate)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Project.DueDate)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Project.DueDate)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.Project.ID">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>

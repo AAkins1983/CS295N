@@ -1,0 +1,11 @@
+C:\Users\AAkin_000\Desktop\Term Project\ProjectManagement1\ProjectManagement1\bin\MCD\Release\netcoreapp2.0\ProjectManagement1.deps.json
+C:\Users\AAkin_000\Desktop\Term Project\ProjectManagement1\ProjectManagement1\bin\MCD\Release\netcoreapp2.0\ProjectManagement1.runtimeconfig.json
+C:\Users\AAkin_000\Desktop\Term Project\ProjectManagement1\ProjectManagement1\bin\MCD\Release\netcoreapp2.0\ProjectManagement1.runtimeconfig.dev.json
+C:\Users\AAkin_000\Desktop\Term Project\ProjectManagement1\ProjectManagement1\bin\MCD\Release\netcoreapp2.0\ProjectManagement1.dll
+C:\Users\AAkin_000\Desktop\Term Project\ProjectManagement1\ProjectManagement1\bin\MCD\Release\netcoreapp2.0\ProjectManagement1.pdb
+C:\Users\AAkin_000\Desktop\Term Project\ProjectManagement1\ProjectManagement1\obj\MCD\Release\netcoreapp2.0\ProjectManagement1.csprojResolveAssemblyReference.cache
+C:\Users\AAkin_000\Desktop\Term Project\ProjectManagement1\ProjectManagement1\obj\MCD\Release\netcoreapp2.0\ProjectManagement1.csproj.CoreCompileInputs.cache
+C:\Users\AAkin_000\Desktop\Term Project\ProjectManagement1\ProjectManagement1\obj\MCD\Release\netcoreapp2.0\ProjectManagement1.AssemblyInfoInputs.cache
+C:\Users\AAkin_000\Desktop\Term Project\ProjectManagement1\ProjectManagement1\obj\MCD\Release\netcoreapp2.0\ProjectManagement1.AssemblyInfo.cs
+C:\Users\AAkin_000\Desktop\Term Project\ProjectManagement1\ProjectManagement1\obj\MCD\Release\netcoreapp2.0\ProjectManagement1.dll
+C:\Users\AAkin_000\Desktop\Term Project\ProjectManagement1\ProjectManagement1\obj\MCD\Release\netcoreapp2.0\ProjectManagement1.pdb

@@ -1,0 +1,44 @@
+C:\Users\AAkin_000\source\repos\ProjectManagement1\ProjectManagement1\bin\Debug\netcoreapp2.0\ProjectManagement1.deps.json
+C:\Users\AAkin_000\source\repos\ProjectManagement1\ProjectManagement1\bin\Debug\netcoreapp2.0\ProjectManagement1.runtimeconfig.json
+C:\Users\AAkin_000\source\repos\ProjectManagement1\ProjectManagement1\bin\Debug\netcoreapp2.0\ProjectManagement1.runtimeconfig.dev.json
+C:\Users\AAkin_000\source\repos\ProjectManagement1\ProjectManagement1\bin\Debug\netcoreapp2.0\ProjectManagement1.dll
+C:\Users\AAkin_000\source\repos\ProjectManagement1\ProjectManagement1\bin\Debug\netcoreapp2.0\ProjectManagement1.pdb
+C:\Users\AAkin_000\source\repos\ProjectManagement1\ProjectManagement1\obj\Debug\netcoreapp2.0\ProjectManagement1.csprojResolveAssemblyReference.cache
+C:\Users\AAkin_000\source\repos\ProjectManagement1\ProjectManagement1\obj\Debug\netcoreapp2.0\ProjectManagement1.csproj.CoreCompileInputs.cache
+C:\Users\AAkin_000\source\repos\ProjectManagement1\ProjectManagement1\obj\Debug\netcoreapp2.0\ProjectManagement1.AssemblyInfoInputs.cache
+C:\Users\AAkin_000\source\repos\ProjectManagement1\ProjectManagement1\obj\Debug\netcoreapp2.0\ProjectManagement1.AssemblyInfo.cs
+C:\Users\AAkin_000\source\repos\ProjectManagement1\ProjectManagement1\obj\Debug\netcoreapp2.0\ProjectManagement1.dll
+C:\Users\AAkin_000\source\repos\ProjectManagement1\ProjectManagement1\obj\Debug\netcoreapp2.0\ProjectManagement1.pdb
+C:\Users\AAkin_000\Desktop\Term Project\ProjectManagement1 - Copy\ProjectManagement1\bin\Debug\netcoreapp2.0\ProjectManagement1.deps.json
+C:\Users\AAkin_000\Desktop\Term Project\ProjectManagement1 - Copy\ProjectManagement1\bin\Debug\netcoreapp2.0\ProjectManagement1.runtimeconfig.json
+C:\Users\AAkin_000\Desktop\Term Project\ProjectManagement1 - Copy\ProjectManagement1\bin\Debug\netcoreapp2.0\ProjectManagement1.runtimeconfig.dev.json
+C:\Users\AAkin_000\Desktop\Term Project\ProjectManagement1 - Copy\ProjectManagement1\bin\Debug\netcoreapp2.0\ProjectManagement1.dll
+C:\Users\AAkin_000\Desktop\Term Project\ProjectManagement1 - Copy\ProjectManagement1\bin\Debug\netcoreapp2.0\ProjectManagement1.pdb
+C:\Users\AAkin_000\Desktop\Term Project\ProjectManagement1 - Copy\ProjectManagement1\obj\Debug\netcoreapp2.0\ProjectManagement1.csprojResolveAssemblyReference.cache
+C:\Users\AAkin_000\Desktop\Term Project\ProjectManagement1 - Copy\ProjectManagement1\obj\Debug\netcoreapp2.0\ProjectManagement1.csproj.CoreCompileInputs.cache
+C:\Users\AAkin_000\Desktop\Term Project\ProjectManagement1 - Copy\ProjectManagement1\obj\Debug\netcoreapp2.0\ProjectManagement1.AssemblyInfoInputs.cache
+C:\Users\AAkin_000\Desktop\Term Project\ProjectManagement1 - Copy\ProjectManagement1\obj\Debug\netcoreapp2.0\ProjectManagement1.AssemblyInfo.cs
+C:\Users\AAkin_000\Desktop\Term Project\ProjectManagement1 - Copy\ProjectManagement1\obj\Debug\netcoreapp2.0\ProjectManagement1.dll
+C:\Users\AAkin_000\Desktop\Term Project\ProjectManagement1 - Copy\ProjectManagement1\obj\Debug\netcoreapp2.0\ProjectManagement1.pdb
+C:\Users\AAkin_000\Desktop\Term Project\ProjectManagement1\ProjectManagement1\bin\Debug\netcoreapp2.0\ProjectManagement1.deps.json
+C:\Users\AAkin_000\Desktop\Term Project\ProjectManagement1\ProjectManagement1\bin\Debug\netcoreapp2.0\ProjectManagement1.runtimeconfig.json
+C:\Users\AAkin_000\Desktop\Term Project\ProjectManagement1\ProjectManagement1\bin\Debug\netcoreapp2.0\ProjectManagement1.runtimeconfig.dev.json
+C:\Users\AAkin_000\Desktop\Term Project\ProjectManagement1\ProjectManagement1\bin\Debug\netcoreapp2.0\ProjectManagement1.dll
+C:\Users\AAkin_000\Desktop\Term Project\ProjectManagement1\ProjectManagement1\bin\Debug\netcoreapp2.0\ProjectManagement1.pdb
+C:\Users\AAkin_000\Desktop\Term Project\ProjectManagement1\ProjectManagement1\obj\Debug\netcoreapp2.0\ProjectManagement1.csprojResolveAssemblyReference.cache
+C:\Users\AAkin_000\Desktop\Term Project\ProjectManagement1\ProjectManagement1\obj\Debug\netcoreapp2.0\ProjectManagement1.csproj.CoreCompileInputs.cache
+C:\Users\AAkin_000\Desktop\Term Project\ProjectManagement1\ProjectManagement1\obj\Debug\netcoreapp2.0\ProjectManagement1.AssemblyInfoInputs.cache
+C:\Users\AAkin_000\Desktop\Term Project\ProjectManagement1\ProjectManagement1\obj\Debug\netcoreapp2.0\ProjectManagement1.AssemblyInfo.cs
+C:\Users\AAkin_000\Desktop\Term Project\ProjectManagement1\ProjectManagement1\obj\Debug\netcoreapp2.0\ProjectManagement1.dll
+C:\Users\AAkin_000\Desktop\Term Project\ProjectManagement1\ProjectManagement1\obj\Debug\netcoreapp2.0\ProjectManagement1.pdb
+C:\Users\TempUser\Desktop\CS295N\Term Project\ProjectManagement1\ProjectManagement1\bin\Debug\netcoreapp2.0\ProjectManagement1.deps.json
+C:\Users\TempUser\Desktop\CS295N\Term Project\ProjectManagement1\ProjectManagement1\bin\Debug\netcoreapp2.0\ProjectManagement1.runtimeconfig.json
+C:\Users\TempUser\Desktop\CS295N\Term Project\ProjectManagement1\ProjectManagement1\bin\Debug\netcoreapp2.0\ProjectManagement1.runtimeconfig.dev.json
+C:\Users\TempUser\Desktop\CS295N\Term Project\ProjectManagement1\ProjectManagement1\bin\Debug\netcoreapp2.0\ProjectManagement1.dll
+C:\Users\TempUser\Desktop\CS295N\Term Project\ProjectManagement1\ProjectManagement1\bin\Debug\netcoreapp2.0\ProjectManagement1.pdb
+C:\Users\TempUser\Desktop\CS295N\Term Project\ProjectManagement1\ProjectManagement1\obj\Debug\netcoreapp2.0\ProjectManagement1.csprojResolveAssemblyReference.cache
+C:\Users\TempUser\Desktop\CS295N\Term Project\ProjectManagement1\ProjectManagement1\obj\Debug\netcoreapp2.0\ProjectManagement1.csproj.CoreCompileInputs.cache
+C:\Users\TempUser\Desktop\CS295N\Term Project\ProjectManagement1\ProjectManagement1\obj\Debug\netcoreapp2.0\ProjectManagement1.AssemblyInfoInputs.cache
+C:\Users\TempUser\Desktop\CS295N\Term Project\ProjectManagement1\ProjectManagement1\obj\Debug\netcoreapp2.0\ProjectManagement1.AssemblyInfo.cs
+C:\Users\TempUser\Desktop\CS295N\Term Project\ProjectManagement1\ProjectManagement1\obj\Debug\netcoreapp2.0\ProjectManagement1.dll
+C:\Users\TempUser\Desktop\CS295N\Term Project\ProjectManagement1\ProjectManagement1\obj\Debug\netcoreapp2.0\ProjectManagement1.pdb
